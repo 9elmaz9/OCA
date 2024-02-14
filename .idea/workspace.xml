@@ -1,27 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="080fe916-e943-46a0-b4ec-d1d023c85ebe" name="Changes" comment="" />
+    <list default="true" id="080fe916-e943-46a0-b4ec-d1d023c85ebe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EEN/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EEN/InitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EEN/InitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EEN/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EEN/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EEN/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EEN/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlootExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlootExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriorityExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriorityExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriorityExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriorityExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriorityExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriorityExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2VyEzZjnbehmwBFk9UlYT4dT5mq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Ex1">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EEN.Ex1" />
+      <module name="OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EEN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EEN.InitTest" />
+      <module name="OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EEN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EEN.MyClass" />
+      <module name="OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EEN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample" />
+      <module name="OCA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EEN.TestClass" />
+      <module name="OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EEN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.InitTest" />
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.StringExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +130,16 @@
       <updated>1695800228333</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
