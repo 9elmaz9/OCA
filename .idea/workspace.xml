@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="080fe916-e943-46a0-b4ec-d1d023c85ebe" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/ASSESSMENT_TEST/HasTail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ASSESSMENT_TEST/TWO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ASSESSMENT_TEST/_C_ONE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EEN/EX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EEN/EX6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EEN/Chick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EEN/Zoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ASSESSMENT_TEST/HasTail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ASSESSMENT_TEST/HasTail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,7 +44,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Cougar">
+  <component name="RunManager" selected="Application.Chick">
+    <configuration name="Chick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EEN.Chick" />
+      <module name="OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EEN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cougar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ASSESSMENT_TEST.Cougar" />
       <module name="OCA" />
@@ -60,38 +71,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EEN.EX" />
-      <module name="OCA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EEN.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EEN.Ex1" />
-      <module name="OCA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EEN.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TWO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ASSESSMENT_TEST.TWO" />
       <module name="OCA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ASSESSMENT_TEST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EEN.Zoo" />
+      <module name="OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EEN.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chick" />
+        <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.Cougar" />
         <item itemvalue="Application.TWO" />
         <item itemvalue="Application._C_ONE" />
-        <item itemvalue="Application.EX" />
-        <item itemvalue="Application.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707914603764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1708416886938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708416886938</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
