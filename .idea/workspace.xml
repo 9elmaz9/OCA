@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="080fe916-e943-46a0-b4ec-d1d023c85ebe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EEN/Ex1.java" afterDir="false" />
+    <list default="true" id="080fe916-e943-46a0-b4ec-d1d023c85ebe" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/ASSESSMENT_TEST/HasTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ASSESSMENT_TEST/TWO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ASSESSMENT_TEST/_C_ONE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EEN/EX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EEN/EX6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EEN/InitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EEN/InitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EEN/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EEN/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EEN/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EEN/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlootExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlootExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PriorityExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriorityExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PriorityExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriorityExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PriorityExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriorityExample3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -50,7 +46,33 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex1">
+  <component name="RunManager" selected="Application.Cougar">
+    <configuration name="Cougar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASSESSMENT_TEST.Cougar" />
+      <module name="OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ASSESSMENT_TEST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EEN.EX" />
+      <module name="OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EEN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EEN.Ex1" />
       <module name="OCA" />
@@ -64,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EEN.InitTest" />
+    <configuration name="TWO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASSESSMENT_TEST.TWO" />
       <module name="OCA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EEN.*" />
+          <option name="PATTERN" value="ASSESSMENT_TEST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,32 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EEN.MyClass" />
+    <configuration name="_C_ONE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASSESSMENT_TEST._C_ONE" />
       <module name="OCA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EEN.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample" />
-      <module name="OCA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EEN.TestClass" />
-      <module name="OCA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EEN.*" />
+          <option name="PATTERN" value="ASSESSMENT_TEST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cougar" />
+        <item itemvalue="Application.TWO" />
+        <item itemvalue="Application._C_ONE" />
+        <item itemvalue="Application.EX" />
         <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.InitTest" />
-        <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.StringExample" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +131,14 @@
       <option name="presentableId" value="Default" />
       <updated>1695800228333</updated>
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1707914603764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707914603764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,5 +151,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
