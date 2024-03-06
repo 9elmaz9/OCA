@@ -1,3 +1,5 @@
+package Verschillende;
+
 public class FlootExample {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Verschillende;
+
 public class PriorityExample3 {
 
     public static void main(String[] args) {
