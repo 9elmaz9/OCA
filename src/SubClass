@@ -1,0 +1,24 @@
+class Superclass {
+    Superclass() throws Exception {
+        // Some code that may throw an exception
+        throw new Exception("Exception in Superclass constructor");
+    }
+}
+
+class Subclass extends Superclass {
+    Subclass() throws Exception {
+        // Call the superclass constructor explicitly using super()
+        super();
+        // Additional code in the subclass constructor
+    }
+}
+
+public class Example {
+    public static void main(String[] args) {
+        try {
+            Subclass instance = new Subclass();
+        } catch (Exception e) {
+            System.out.println("Caught Exception: " + e.getMessage());
+        }
+    }
+}
